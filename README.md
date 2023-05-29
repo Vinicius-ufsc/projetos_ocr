@@ -1,4 +1,4 @@
-# RECONHECIMENTO DE CARACTERES (OCR) EM FORMULÁRIO PADRÃO DA UFSC
+# Reconhecimento de caracteres (OCR) em formulário padrão da UFSC
 
 ### Projeto Nível I em Cont e Proc de Sinais I
 
